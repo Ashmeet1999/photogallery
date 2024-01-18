@@ -1,2 +1,2 @@
 # photogallery
- https://ashmeet1999.github.io/photogallery/
+https://ashmeet1999.github.io/photogallery/
